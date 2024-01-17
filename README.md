@@ -1,3 +1,5 @@
+Credit to https://www.youtube.com/watch?v=zJSY8tbf_ys
+
 The lesson 7 challenge is an HTML only challenge.  
 
 ![challenge preview](https://i.giphy.com/media/qwUeoBBmQUW1hLxXRn/giphy.gif)
